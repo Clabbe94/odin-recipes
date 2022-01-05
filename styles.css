@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(252, 252, 184);
+}
+
+.front-page {
+  text-align: center;
+}
+
+button {
+  background-color: firebrick;
+}
+
+.recipe-text {
+  color: black;
+  font-size: 24px;
+}
